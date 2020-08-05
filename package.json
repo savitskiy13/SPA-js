@@ -1,0 +1,22 @@
+{
+  "name": "spajs",
+  "version": "1.0.0",
+  "description": "js spa",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savitskiy13/SPA-js.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Savitskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savitskiy13/SPA-js/issues"
+  },
+  "homepage": "https://github.com/savitskiy13/SPA-js#readme"
+}
